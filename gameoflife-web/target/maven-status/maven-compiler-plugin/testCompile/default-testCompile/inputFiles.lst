@@ -1,0 +1,3 @@
+/root/venky/game-of-life/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenCreatingANewGame.java
+/root/venky/game-of-life/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenDisplayingTheHomePage.java
+/root/venky/game-of-life/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenSpawningANewGeneration.java
